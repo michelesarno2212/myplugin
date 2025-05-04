@@ -1,0 +1,2 @@
+# devstack/override-defaults
+MYPLUGIN_VAR=${MYPLUGIN_VAR:-default_value}

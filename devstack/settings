@@ -1,0 +1,4 @@
+# devstack/settings
+define_plugin myplugin
+plugin_requires myplugin neutron
+enable_service myplugin
